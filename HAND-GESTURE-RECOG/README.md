@@ -130,10 +130,6 @@ The image of the model prepared in "[point_history_classification.ipynb](point_h
 
 # Reference
 * [MediaPipe](https://mediapipe.dev/)
-
-
-# Translation and other improvements
-Nikita Kiselov(https://github.com/kinivi)
  
 # License 
 hand-gesture-recognition-using-mediapipe is under [Apache v2 license](LICENSE).
